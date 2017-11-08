@@ -1,0 +1,43 @@
+,clds,daypart_name,dow,icon_code,phrase_32char,chance of rain,precip_type,humidity,temperature,wdir,wind speed,date
+0,92,Afternoon,Tuesday,11,Light Rain,91,rain,79,52,207,11,2017-11-07 13:00:00
+1,99,Evening,Tuesday,12,Rain,97,rain,84,47,328,11,2017-11-07 19:00:00
+2,79,Overnight,Wednesday,11,Light Rain,44,rain,83,44,332,10,2017-11-08 01:00:00
+3,50,Morning,Wednesday,30,Partly Cloudy,12,rain,80,44,332,10,2017-11-08 07:00:00
+4,11,Afternoon,Wednesday,32,Sunny,4,rain,68,48,332,11,2017-11-08 13:00:00
+5,10,Evening,Wednesday,31,Clear,8,rain,82,41,287,6,2017-11-08 19:00:00
+6,77,Overnight,Thursday,26,Cloudy,22,rain,85,40,241,7,2017-11-09 01:00:00
+7,95,Morning,Thursday,26,Cloudy,15,rain,86,47,246,7,2017-11-09 07:00:00
+8,71,Afternoon,Thursday,28,Mostly Cloudy,9,rain,86,52,261,7,2017-11-09 13:00:00
+9,80,Evening,Thursday,26,Cloudy,20,rain,94,49,255,6,2017-11-09 19:00:00
+10,90,Overnight,Friday,26,Cloudy,22,rain,92,49,257,12,2017-11-10 01:00:00
+11,80,Morning,Friday,26,Cloudy,21,rain,87,52,259,13,2017-11-10 07:00:00
+12,72,Afternoon,Friday,28,Mostly Cloudy,23,rain,76,54,270,13,2017-11-10 13:00:00
+13,58,Evening,Friday,11,Showers,45,rain,78,50,253,13,2017-11-10 19:00:00
+14,53,Overnight,Saturday,11,Showers,50,rain,83,49,260,13,2017-11-11 01:00:00
+15,64,Morning,Saturday,26,Cloudy,24,rain,80,49,292,15,2017-11-11 07:00:00
+16,65,Afternoon,Saturday,30,Partly Cloudy,6,rain,70,49,302,15,2017-11-11 13:00:00
+17,16,Evening,Saturday,31,Clear,7,rain,75,44,299,10,2017-11-11 19:00:00
+18,13,Overnight,Sunday,31,Clear,5,rain,81,41,296,12,2017-11-12 01:00:00
+19,10,Morning,Sunday,32,Sunny,7,rain,75,44,302,15,2017-11-12 07:00:00
+20,34,Afternoon,Sunday,30,Partly Cloudy,6,rain,64,46,314,15,2017-11-12 13:00:00
+21,15,Evening,Sunday,31,Clear,4,rain,74,41,315,10,2017-11-12 19:00:00
+22,9,Overnight,Monday,31,Clear,5,precip,82,37,311,8,2017-11-13 01:00:00
+23,14,Morning,Monday,32,Sunny,5,precip,82,40,307,9,2017-11-13 07:00:00
+24,30,Afternoon,Monday,30,Partly Cloudy,10,rain,79,44,287,10,2017-11-13 13:00:00
+25,42,Evening,Monday,29,Partly Cloudy,13,rain,90,42,264,7,2017-11-13 19:00:00
+26,62,Overnight,Tuesday,29,Partly Cloudy,17,rain,89,41,257,7,2017-11-14 01:00:00
+27,88,Morning,Tuesday,26,Cloudy,24,rain,90,44,244,8,2017-11-14 07:00:00
+28,86,Afternoon,Tuesday,26,Cloudy,24,rain,82,49,244,8,2017-11-14 13:00:00
+29,74,Evening,Tuesday,11,Few Showers,30,rain,90,46,238,6,2017-11-14 19:00:00
+30,59,Overnight,Wednesday,29,Partly Cloudy,24,rain,93,45,243,6,2017-11-15 01:00:00
+31,65,Morning,Wednesday,30,Partly Cloudy,21,rain,83,47,258,9,2017-11-15 07:00:00
+32,83,Afternoon,Wednesday,26,Cloudy,24,rain,74,50,264,9,2017-11-15 13:00:00
+33,79,Evening,Wednesday,11,Showers,53,rain,85,46,240,4,2017-11-15 19:00:00
+34,83,Overnight,Thursday,11,Showers,40,rain,86,44,236,6,2017-11-16 01:00:00
+35,62,Morning,Thursday,30,Partly Cloudy,20,rain,81,46,248,10,2017-11-16 07:00:00
+36,69,Afternoon,Thursday,28,Mostly Cloudy,20,rain,73,49,254,12,2017-11-16 13:00:00
+37,77,Evening,Thursday,27,Mostly Cloudy,24,rain,85,46,241,11,2017-11-16 19:00:00
+38,73,Overnight,Friday,27,Mostly Cloudy,22,rain,87,45,239,12,2017-11-17 01:00:00
+39,57,Morning,Friday,11,Showers,58,rain,82,47,241,15,2017-11-17 07:00:00
+40,56,Afternoon,Friday,11,Showers,55,rain,76,49,242,15,2017-11-17 13:00:00
+41,55,Evening,Friday,11,Showers,43,rain,85,46,249,12,2017-11-17 19:00:00

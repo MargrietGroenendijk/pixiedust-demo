@@ -1,0 +1,29 @@
+,index,chance of rain,clds,date,daypart_name,dow,humidity,icon_code,lat,lon,phrase_32char,place,precip_type,temperature,temperatureC,wdir,wind speed
+0,0,0.0,43.0,2017-11-07 13:00:00,Afternoon,Tuesday,66.0,30.0,50.2632,-5.051,Partly Cloudy,Truro,rain,49.0,9.4452,322.0,15.0
+1,0,88.0,65.0,2017-11-07 13:00:00,Afternoon,Tuesday,81.0,12.0,50.7184,-3.5339,Rain,Exeter,rain,48.0,8.8896,323.0,11.0
+2,0,96.0,95.0,2017-11-07 13:00:00,Afternoon,Tuesday,88.0,12.0,50.80034751,-1.080022218,Rain,Portsmouth,rain,52.0,11.112,257.0,15.0
+3,0,80.0,88.0,2017-11-07 13:00:00,Afternoon,Tuesday,86.0,11.0,50.8225,-0.1372,Light Rain,Brighton And Hove,rain,51.0,10.5564,200.0,14.0
+4,0,100.0,89.0,2017-11-07 13:00:00,Afternoon,Tuesday,87.0,12.0,51.44999778,-2.583315472,Rain,Bristol,rain,48.0,8.8896,328.0,13.0
+5,0,91.0,92.0,2017-11-07 13:00:00,Afternoon,Tuesday,79.0,11.0,51.49999473,-0.116721844,Light Rain,London,rain,52.0,11.112,207.0,11.0
+6,0,100.0,99.0,2017-11-07 13:00:00,Afternoon,Tuesday,88.0,12.0,51.7517,-1.2553,Rain,Oxford,rain,49.0,9.4452,302.0,11.0
+7,0,5.0,50.0,2017-11-07 13:00:00,Afternoon,Tuesday,80.0,30.0,51.8576,-4.3121,Partly Cloudy,Carmarthen,rain,47.0,8.334,309.0,13.0
+8,0,90.0,75.0,2017-11-07 13:00:00,Afternoon,Tuesday,86.0,11.0,52.2053,0.1218,Light Rain,Cambridge,rain,51.0,10.5564,196.0,13.0
+9,0,6.0,68.0,2017-11-07 13:00:00,Afternoon,Tuesday,86.0,26.0,52.4135,-3.5883,Cloudy,Llanidloes,rain,42.0,5.556,307.0,10.0
+10,0,89.0,98.0,2017-11-07 13:00:00,Afternoon,Tuesday,91.0,12.0,52.42040367,-1.499996583,Rain,Coventry,rain,47.0,8.334,318.0,10.0
+11,0,42.0,77.0,2017-11-07 13:00:00,Afternoon,Tuesday,79.0,11.0,52.6309,1.2974,Light Rain,Norwich,rain,50.0,10.0008,174.0,13.0
+12,0,100.0,87.0,2017-11-07 13:00:00,Afternoon,Tuesday,87.0,12.0,52.7069,-2.7527,Rain,Shrewsbury,rain,46.0,7.7783999999999995,305.0,11.0
+13,0,92.0,98.0,2017-11-07 13:00:00,Afternoon,Tuesday,86.0,12.0,52.97034426,-1.170016725,Rain,Nottingham,rain,48.0,8.8896,309.0,10.0
+14,0,13.0,60.0,2017-11-07 13:00:00,Afternoon,Tuesday,74.0,30.0,53.2932,-3.7276,Partly Cloudy,Colwyn Bay,rain,47.0,8.334,290.0,11.0
+15,0,90.0,94.0,2017-11-07 13:00:00,Afternoon,Tuesday,81.0,12.0,53.50041526,-2.247987103,Rain,Manchester,rain,47.0,8.334,310.0,7.0
+16,0,93.0,95.0,2017-11-07 13:00:00,Afternoon,Tuesday,93.0,12.0,53.7457,-0.3367,Rain,Kingston upon Hull,rain,48.0,8.8896,302.0,13.0
+17,0,67.0,89.0,2017-11-07 13:00:00,Afternoon,Tuesday,87.0,11.0,53.83000755,-1.580017539,Light Rain,Leeds,rain,45.0,7.222799999999999,308.0,12.0
+18,0,40.0,87.0,2017-11-07 13:00:00,Afternoon,Tuesday,83.0,11.0,54.6641,-2.7527,Light Rain,Penrith,rain,44.0,6.667199999999999,275.0,12.0
+19,0,84.0,90.0,2017-11-07 13:00:00,Afternoon,Tuesday,81.0,11.0,54.7753,-1.5849,Light Rain,Durham,rain,46.0,7.7783999999999995,309.0,11.0
+20,0,2.0,38.0,2017-11-07 13:00:00,Afternoon,Tuesday,76.0,30.0,54.9186,-4.5918,Partly Cloudy,Newton Stewart,rain,45.0,7.222799999999999,274.0,9.0
+21,0,4.0,78.0,2017-11-07 13:00:00,Afternoon,Tuesday,83.0,26.0,55.4777,-2.5549,Cloudy,Jedburgh,rain,44.0,6.667199999999999,261.0,6.0
+22,0,5.0,38.0,2017-11-07 13:00:00,Afternoon,Tuesday,78.0,30.0,55.87440472,-4.250707236,Partly Cloudy,Glasgow,rain,45.0,7.222799999999999,242.0,8.0
+23,0,2.0,43.0,2017-11-07 13:00:00,Afternoon,Tuesday,75.0,30.0,55.94832786,-3.219090618,Partly Cloudy,Edinburgh,rain,45.0,7.222799999999999,247.0,8.0
+24,0,3.0,44.0,2017-11-07 13:00:00,Afternoon,Tuesday,84.0,24.0,56.9855,-3.5055,Partly Cloudy/Wind,Inverey,precip,39.0,3.8891999999999998,258.0,20.0
+25,0,7.0,39.0,2017-11-07 13:00:00,Afternoon,Tuesday,80.0,30.0,57.1448,-4.6805,Partly Cloudy,Fort Augustus,rain,43.0,6.1116,212.0,8.0
+26,0,2.0,51.0,2017-11-07 13:00:00,Afternoon,Tuesday,78.0,30.0,57.1497,-2.0943,Partly Cloudy,Aberdeen,rain,45.0,7.222799999999999,250.0,6.0
+27,0,3.0,27.0,2017-11-07 13:00:00,Afternoon,Tuesday,75.0,30.0,58.197,-4.6173,Partly Cloudy,Lairg,rain,41.0,5.0004,204.0,8.0
