@@ -7,7 +7,7 @@ This repository contains the slides and example notebooks of a talk I gave at:
 * Big Data Developers meetup in London on 23 November 2017
 * Business Intelligence and Analytics Bristol meetup on 12 December 2017
 
-To see the slides from the [slides notebook](https://github.com/MargrietGroenendijk/pixiedust-demo/blob/master/pixiedust-demo-slides.ipynb), type the following in a terminal:
+To see the slides from the [slides notebook](https://github.com/MargrietGroenendijk/pixiedust-demo/blob/master/pixiedust-demo-slides.ipynb), download the notebook and type the following in a terminal:
 
 ```
 jupyter nbconvert pixiedust-demo-slides.ipynb --to slides --post serve
