@@ -12,3 +12,7 @@ To see the slides from the [slides notebook](https://github.com/MargrietGroenend
 ```
 jupyter nbconvert pixiedust-demo-slides.ipynb --to slides --post serve
 ```
+
+You can find a more detailed explanation in this blog: [Sliding Through a Notebook](https://medium.com/ibm-watson-data-lab/sliding-through-a-notebook-3da3710afe4f). 
+
+If you want to contribute to PixieDust, here is a blog on how to get started: [My First Pull Request for the Open Source PixieDust Project](https://medium.com/ibm-watson-data-lab/my-first-pull-request-for-the-open-source-pixiedust-project-b175b0c6fdc5).
